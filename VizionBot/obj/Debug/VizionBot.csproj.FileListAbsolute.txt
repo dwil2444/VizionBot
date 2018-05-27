@@ -13,6 +13,7 @@ C:\Users\User_01\source\repos\VizionBot\VizionBot\bin\Microsoft.IdentityModel.To
 C:\Users\User_01\source\repos\VizionBot\VizionBot\bin\Microsoft.Rest.ClientRuntime.dll
 C:\Users\User_01\source\repos\VizionBot\VizionBot\bin\Microsoft.WindowsAzure.Configuration.dll
 C:\Users\User_01\source\repos\VizionBot\VizionBot\bin\Newtonsoft.Json.dll
+C:\Users\User_01\source\repos\VizionBot\VizionBot\bin\RestSharp.dll
 C:\Users\User_01\source\repos\VizionBot\VizionBot\bin\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\User_01\source\repos\VizionBot\VizionBot\bin\System.Net.Http.Formatting.dll
 C:\Users\User_01\source\repos\VizionBot\VizionBot\bin\System.Web.Http.dll
@@ -53,8 +54,8 @@ C:\Users\User_01\source\repos\VizionBot\VizionBot\bin\nl\Microsoft.Bot.Builder.r
 C:\Users\User_01\source\repos\VizionBot\VizionBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
 C:\Users\User_01\source\repos\VizionBot\VizionBot\bin\ru\Microsoft.Bot.Builder.resources.dll
 C:\Users\User_01\source\repos\VizionBot\VizionBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
-C:\Users\User_01\source\repos\VizionBot\VizionBot\obj\Debug\VizionBot.csprojResolveAssemblyReference.cache
 C:\Users\User_01\source\repos\VizionBot\VizionBot\obj\Debug\VizionBot.csproj.CoreCompileInputs.cache
 C:\Users\User_01\source\repos\VizionBot\VizionBot\obj\Debug\VizionBot.csproj.CopyComplete
 C:\Users\User_01\source\repos\VizionBot\VizionBot\obj\Debug\Bot Application.dll
 C:\Users\User_01\source\repos\VizionBot\VizionBot\obj\Debug\Bot Application.pdb
+C:\Users\User_01\source\repos\VizionBot\VizionBot\obj\Debug\VizionBot.csprojResolveAssemblyReference.cache
