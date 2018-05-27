@@ -58,3 +58,4 @@ C:\Users\User_01\source\repos\VizionBot\VizionBot\obj\Debug\VizionBot.csproj.Cor
 C:\Users\User_01\source\repos\VizionBot\VizionBot\obj\Debug\VizionBot.csproj.CopyComplete
 C:\Users\User_01\source\repos\VizionBot\VizionBot\obj\Debug\Bot Application.dll
 C:\Users\User_01\source\repos\VizionBot\VizionBot\obj\Debug\Bot Application.pdb
+C:\Users\User_01\source\repos\VizionBot\VizionBot\bin\RestSharp.dll
