@@ -2,22 +2,23 @@
 using System.Threading.Tasks;
 using Microsoft.Bot.Builder.Dialogs;
 using Microsoft.Bot.Connector;
+using System.Drawing;
 
 namespace VizionBot.Dialogs
 {
     [Serializable]
     public class VisionDialog : IDialog<object>
     {
-        private string image;
+        public Image image;
 
-        public VisionDialog(string image)
+        public VisionDialog(Image imageFile)
         {
-            this.image = image;
+            this.image = (Image)imageFile;
         }
 
         public async Task StartAsync(IDialogContext context)
         {
-            string answer = await GetImageAnalysis.GetAnalysis(image);
+            string answer = await GetImageAnalysis.GetAnalysis(this.image);
             await context.PostAsync(answer);
             context.Wait(MessageReceivedAsync);
         }
