@@ -9,6 +9,9 @@
 *.userosscache
 *.sln.docstates
 
+# Config File containing Secrets and API Keys
+VizionBot/PrivateKeys.config
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 

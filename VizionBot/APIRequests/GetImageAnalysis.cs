@@ -5,12 +5,13 @@ using System.Net.Http.Headers;
 using System.IO;
 using Newtonsoft.Json;
 using System.Drawing;
+using System.Configuration;
 
 namespace VizionBot
 {
     public static class GetImageAnalysis
     {
-        private static string subscriptionKey = "36888b9029e344b1901d99c3a1c3c6cc";
+        private static string subscriptionKey = ConfigurationManager.AppSettings["SubscriptionKey"];
         private static string contentType = "application/json";
         private static string uriBase = "https://eastasia.api.cognitive.microsoft.com/vision/v1.0/analyze";
 
